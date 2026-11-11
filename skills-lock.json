@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "discord-js-official-docs": {
+      "source": "adamalex/discordjs-pi",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/discord-js-official-docs/SKILL.md",
+      "computedHash": "e88b49708fd9eb29a779c562ced1518c91e96ec59b8a87f242f76ce62867c2ef"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "research": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/research/SKILL.md",
+      "computedHash": "7662666af51f8b1672ed7d88360d4b82656da21bb7b11c49e956eeb3036b85d5"
+    }
+  }
+}
